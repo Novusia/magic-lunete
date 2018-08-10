@@ -119,7 +119,7 @@ table {
 .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
   width: 40px;
   height: 4px;
-  background-color: #171717;
+  background-color: #ffff80;
   border-radius: 4px;
   position: absolute;
   transition-property: transform;
@@ -128,15 +128,15 @@ table {
 }
 
 .section-start .hamburger-inner, .section-start .hamburger-inner::before, .section-start .hamburger-inner::after {
-    background-color: #c84141;
+    background-color: #ffff80;
 }
 
 .wrapper .hamburger-inner, .wrapper .hamburger-inner::before, .wrapper .hamburger-inner::after {
-     background-color: #c84141;
+     background-color: #ffff80;
 }
 
 .body-credits .hamburger-inner, .body-credits .hamburger-inner::before, .body-credits .hamburger-inner::after {
-    background-color: #c84141;
+    background-color: #ffff80;
 }
 
 /* line 46, C:/Users/Asus/Desktop/Marta/Marta_S/sass/base/_hamburger.scss */
@@ -1296,7 +1296,7 @@ main p {
   width: 60%;
   text-align: center;
   font-weight: 400;
-  color: #f5deb3;
+  color: #ffff80;
 }
 
 /* line 48, C:/Users/Asus/Desktop/Marta/Marta_S/sass/themes/_about-project.scss */
@@ -1340,7 +1340,7 @@ nav.hamburger--squeeze.is-active {
   left: 0;
       width: 100%;
     height: 100%;
-  background-color: #c84141;
+  background-color: #ffff80;
 }
 
 
