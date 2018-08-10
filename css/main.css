@@ -1308,8 +1308,11 @@ button {
   -webkit-box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);
   box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);
   cursor: pointer;
+   color: #ffff80;
+    border: 1px solid #ffff80;
+   /*
     background-color: #c84141;
-  color: #171717;
+  color: #171717;*/
   font-size: 18px;
     font-weight: 700;
   font-family: 'Indie Flower', cursive;
