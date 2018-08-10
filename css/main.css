@@ -1131,7 +1131,7 @@ table {
   transform: rotate(45deg);
   transition-delay: 0.12s;
   transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
-    background-color: #ffff80;
+    /*background-color: #ffff80;*/
        /*#171717;*/
 }
 
@@ -1312,9 +1312,7 @@ button {
   cursor: pointer;
    color: #ffff80;
     border: 1px solid #ffff80;
-   /*
-    background-color: #c84141;
-  color: #171717;*/
+     background-color: #171717;
   font-size: 18px;
     font-weight: 700;
   font-family: 'Indie Flower', cursive;
