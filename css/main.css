@@ -1137,7 +1137,7 @@ table {
 
 
 .hamburger--squeeze.is-active .hamburger-inner::after {
-    background-color: #171717;
+   /* background-color: #171717;*/
 }
 
 /* line 641, C:/Users/Asus/Desktop/Marta/Marta_S/sass/base/_hamburger.scss */
